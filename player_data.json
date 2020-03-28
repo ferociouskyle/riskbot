@@ -1,0 +1,22 @@
+{
+  "time": {
+    "updated": "Mar 26, 2020 22:47:00 UTC",
+    "updatedISO": "2020-03-26T22:47:00+00:00",
+    "updateduk": "Mar 26, 2020 at 22:47 GMT"
+  },
+  "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+  "bpi": {
+    "USD": {
+      "code": "USD",
+      "rate": "6,709.9500",
+      "description": "United States Dollar",
+      "rate_float": 6709.95
+    },
+    "BTC": {
+      "code": "BTC",
+      "rate": "1.0000",
+      "description": "Bitcoin",
+      "rate_float": 1
+    }
+  }
+}
